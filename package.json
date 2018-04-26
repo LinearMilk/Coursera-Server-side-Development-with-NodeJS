@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LinearMilk/coursera/issues"
   },
-  "homepage": "https://github.com/LinearMilk/coursera#readme"
+  "homepage": "https://github.com/LinearMilk/coursera#readme",
+  "dependencies": {
+    "yargs": "^11.0.0"
+  }
 }
